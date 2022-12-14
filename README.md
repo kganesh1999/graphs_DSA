@@ -1,6 +1,6 @@
 # Graphs DSA
 
-This repo has the implementation of Graph data structure with function developed by classic graph algorithms to perform tasks like finding shortest path, cycle detection, MST and so on. The code implementation followed OOPS design pattern for better encapsulation, reusability and readability.
+This repo has the implementation of Graph data structure with function developed (based on classic algorithms) to perform tasks like finding shortest path, cycle detection, MST, topological sort and graph traversals. The code implementation followed OOPS design pattern for better encapsulation, reusability and readability.
 
 ## References
 https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
